@@ -1,3 +1,0 @@
-This file discusses database technologies.
-PostgreSQL, MySQL, and MongoDB are popular database systems.
-Indexing improves query performance significantly.

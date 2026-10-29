@@ -1,3 +1,0 @@
-Java Virtual Machine (JVM) executes Java bytecode.
-Enterprise applications rely heavily on Java frameworks like Spring.
-Learning Java opens up many backend engineering opportunities.
